@@ -1,2 +1,2 @@
 # FPA-FM
-Project tugas akhir Fundamen Pengembangan Aplikasi ( Java )
+Project tugas akhir Fundamen Pengembangan Aplikasi (Java)
